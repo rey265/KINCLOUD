@@ -74,25 +74,32 @@ AWS, NHN 클라우드, OpenStack을 활용한 멀티 하이브리드 클라우�
 
 ## 🔖 성과
 
-KIN Cloud의 프로젝트는 AWS, NHN 클라우드, OpenStack을 통합한 멀티 하이브리드 클라우드를 구축하여 고가용성, 유연성, 보안성을 강화하였습니다. Terraform을 통한 인프라 코드화와 VPN/DMS를 이용한 클라우드 간 연동으로 안정적이고 효율적인 클라우드 환경을 구현하였습니다. 주요 성과는 인프라의 자동화 및 고가용성 보장입니다.
+<img src="https://github.com/rey265/KINCLOUD/blob/main/KIN-CLOUD-main/image/dns.png">
+
 <br>
 
+<img src="https://github.com/rey265/KINCLOUD/blob/main/KIN-CLOUD-main/image/login%20success.png">
+
+<br>
+
+<img src="https://github.com/rey265/KINCLOUD/blob/main/KIN-CLOUD-main/image/sign-up_success.png">
+
+<br>
 # 📝 프로젝트 진행 관리: Notion
 
 ### 🔗 URL
 https://sonrey.notion.site/Project-Team-Notion-KIN-Cloud-007806073dbf41ad81783f42c4ee5f4d?pvs=4
 
-<img src="">
+<br>
+
+<img src="https://github.com/rey265/KINCLOUD/blob/main/KIN-CLOUD-main/image/Project%20Team%20Notion%20KIN%20Cloud%20.png">
 
 <br>
 
-<img src="">
-<br>
 
 # 📝 발표 PPT:
-
-
+https://online.fliphtml5.com/viwpp/mwfv/
 
 <br>
 
-<img src="">
+<img src="https://github.com/rey265/KINCLOUD/blob/main/KIN-CLOUD-main/image/ppt.jpg">
